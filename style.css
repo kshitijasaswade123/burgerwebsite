@@ -1,0 +1,16 @@
+h1{
+    font-size: 6rem;
+    font-weight: 600;
+}
+header{
+    background-color: orangered;
+    color: white;
+}
+@media screen and (max-width:425px){
+    h1{
+        font-size: 2rem;
+    }
+}
+footer{
+    background-color: black;
+}
